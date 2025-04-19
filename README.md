@@ -7,6 +7,7 @@ This repository contains one mini-project and one major-project implemented in c
 1. 🔐 OTP Generator ⚡
 
  ----Features----
+ 
 🛡 Generates a random 4-digit OTP using C++'s <cstdlib> and <ctime> libraries for secure randomness.
 
 🛡 Displays OTP with limited visibility, simulating a secure one-time code system.
@@ -14,6 +15,7 @@ This repository contains one mini-project and one major-project implemented in c
 2. 🔄 undo-redo ⚡
 
  ----Features----
+ 
 🛡 This project implements a robust Undo/Redo functionality using stacks in C++.
 
 🛡 Every user action is stored, allowing the system to revert (undo) or reapply (redo) changes efficiently.
