@@ -22,8 +22,4 @@ This repository contains one mini-project and one major-project implemented in c
 
 🛡 It’s ideal for text editors, drawing apps, or any system requiring reversible user interactions.  
 
-----Concepts:----
 
-o- Stacks: The main concept behind undo/redo functionality is the stack data structure, where the last action is always the first to be undone.
-
-o- State Copying: When an action occurs, a copy of the current state is saved in a stack. Undo reverts to the previous copy, and redo restores the action.
